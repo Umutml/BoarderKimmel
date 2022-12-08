@@ -1,7 +1,7 @@
 # BoarderKimmel
 
 Snowboarding game simple mechanics Left-Right for controls and have boost mechanic fuel based
-SpaceBar>Boost - Fuel-UI bottom left
+SpaceBar ->> Boost(Actually working with unity Jump input ) - FuelUI bottom left
 
 Used sprite shape renderer for building level
 Surface effector component boost and moving
